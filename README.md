@@ -1,4 +1,6 @@
  Hi 👋I'm Dina Othman
+ 
+ - 🌱 I’m currently learning React Native
 
 <!--
 **DinaOthman21/DinaOthman21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
