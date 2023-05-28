@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dina Othman</h1>
-<h3 align="center">Database Developer</h3>
+<h3 align="center">Frontend Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dinaothman21&label=Profile%20views&color=0e75b6&style=flat" alt="dinaothman21" /> </p>
 
