@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **dinaosman581@gmail.com**
 
-- 📄 Know about my experiences [https://flowcv.com/resume/fh8fs3bfn0](https://flowcv.com/resume/fh8fs3bfn0)
+- 📄 Know about my experiences [My_CV](https://flowcv.com/resume/fh8fs3bfn0)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
