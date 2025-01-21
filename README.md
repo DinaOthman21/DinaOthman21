@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Dina Othman</h1>
-<h3 align="center">Android Developer</h3>
+<h3 align="center">Mobile Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dinaothman21&label=Profile%20views&color=0e75b6&style=flat" alt="dinaothman21" /> </p>
 
-- 🌱 I’m currently learning **Android development**
+- 🌱 I’m currently learning **Mobile development**
 
 - 📫 How to reach me **dinaosman581@gmail.com**
 
