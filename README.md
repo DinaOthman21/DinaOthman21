@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Dina Othman</h1>
-<h3 align="center">Mobile Developer</h3>
+<h3 align="center">Android Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dinaothman21&label=Profile%20views&color=0e75b6&style=flat" alt="dinaothman21" /> </p>
 
-- 🌱 I’m currently learning **Mobile development**
+- 🌱 I’m currently learning **Android development**
 
 - 📫 How to reach me **dinaosman581@gmail.com**
 
-- 📄 Know about my experiences [My_CV](https://flowcv.com/resume/fh8fs3bfn0)
+- 📄 Know about my experiences [My_CV](https://drive.google.com/file/d/1cfZtf8US_Fajt3JbUU9oqzgOin3Vs2AZ/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
